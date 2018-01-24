@@ -1,4 +1,4 @@
-# GeneralRessources
+# GeneralResources
 Design ressources
 
 ## Colors
